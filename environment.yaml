@@ -1,0 +1,13 @@
+name: fraud-busters
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - imbalanced-learn
+prefix: /Users/benchen/miniconda3/envs/fraud-busters
